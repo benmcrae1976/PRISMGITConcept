@@ -14,10 +14,11 @@ A minimal Jekyll theme with Bootstrap for creating Griffith workshop websites. C
 {% capture whatsdifferent %}
 This template has been 'Griffithised' in the following ways: 
 
- - Our Google Analytics ID has been added
- - Updated the publication year
- - Griffith Uni Library is the content author
- - Added a Griffith campus location as the feature photo
+ - Library Google Analytics ID added
+ - Publication year updated
+ - Content author set as Griffith Uni Library
+ - Griffith campus feature photo added
+ - Griffith favicon added
 
 {% include alert.html text="That's fantastic!" color="info" %}
 
