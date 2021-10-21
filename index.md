@@ -16,7 +16,7 @@ This template has been 'Griffithised' in the following ways:
 
  - Our Google Analytics ID has been added
  - Updated the publication year
- - Girffith Uni Library is the content author
+ - Griffith Uni Library is the content author
  - Added a Griffith campus location as the feature photo
 
 {% include alert.html text="That's fantastic!" color="secondary" %}
