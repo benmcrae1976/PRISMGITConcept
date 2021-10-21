@@ -11,9 +11,18 @@ A minimal Jekyll theme with Bootstrap for creating Griffith workshop websites. C
 
 *Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+{% capture whatsdifferent %}
+This template has been 'Griffithised' in the following ways: 
+
+ - Our Google Analytics ID has been added
+ - Updated the publication year
+ - Girffith Uni Library is the content author
+ - Added a Griffith campus location as the feature photo
+
+{% include alert.html text="That's fantastic!" color="secondary" %}
+
+{% endcapture %}
+{% include card.html header="What's been changed?" text=whatsdifferent %}
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
