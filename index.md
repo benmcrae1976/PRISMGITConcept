@@ -19,7 +19,7 @@ This template has been 'Griffithised' in the following ways:
  - Griffith Uni Library is the content author
  - Added a Griffith campus location as the feature photo
 
-{% include alert.html text="That's fantastic!" color="secondary" %}
+{% include alert.html text="That's fantastic!" color="info" %}
 
 {% endcapture %}
 {% include card.html header="What's been changed?" text=whatsdifferent %}
