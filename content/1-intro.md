@@ -3,35 +3,47 @@ title: Introduction
 nav: Intro
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+This series of self-paced learning Research  Skills modules have been designed to assist post-graduate candidates and researchers, ECRS, Research assistants, and academics throughout their dissertation and academic career.  Every module is linked to library resources, RED workshops, and where available, to self-paced training materials.  
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
 
-### Why?
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
+The modules work as training or refresher tools for research and cover the processes involved in; literature reviews, data management, data analysis, metrics, and publications.  Each module has been created for you to develop your research and academic skills during your candidature, skills that will continue to benefit you throughout your career.
 
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
+ The modules are sequenced but can be utilized in any order. The intention is that you use the modules at your time of need. 
 
-## GitHub Pages 
 
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
 
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
+## Pages 
+Preparing for Your Research ProjectPreparing for Your Research Project 
 
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
+RESEARCH THE LITERATURE
+Working with the literatureWorking with the literature 0 Percent Complete
 
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+ORGANISE YOU RESOURCES
+ReferencingReferencing 0 Percent Complete
+Reference Managment Software ToolsReference Managment Software Tools 0 Percent Complete
+
+REVIEW THE LITERATURE
+Systematic Styled Literature ReviewsSystematic Styled Literature Reviews 0 Percent Complete
+Evaluating and Assessing Literature for ReviewEvaluating and Assessing Literature for Review 0 Percent Complete
+
+PROPOSAL WRITING
+Writing up Your Research ProposalWriting up Your Research Proposal 0 Percent Complete
+
+MANAGE YOUR DATA
+Research Data ManagementResearch Data Management 0 Percent Complete
+
+DATA WRANGLING
+Data WranglingData Wrangling 0 Percent Complete
+
+WRITE IT UP
+Academic Writing - Preparing Your DissertationAcademic Writing - Preparing Your Dissertation 0 Percent Complete
+Writing Your ThesisWriting Your Thesis 0 Percent Complete
+Writing About DataWriting About Data 0 Percent Complete
+
+GETTING PUBLISHED
+Getting your Research PublishedGetting your Research Published 0 Percent Complete
+
+IMPACT AND METRICS
+Research MetricsResearch Metrics 0 Percent Complete
+Research Impact
