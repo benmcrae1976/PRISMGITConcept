@@ -1,0 +1,63 @@
+---
+title: Get Started
+nav: Start
+topics: Template; Config; Lorem ipsum
+---
+Overview    
+
+Research generates a lot of documents, images, and data. This module offers suggestions that help you keep documents and files organised, safe and accessible.
+Keeping your information organised enables you to add, edit, copy and retrieve files and folders efficiently, while securing your data and files reduces the risk of losing them.
+the following module covers file and folder naming conventions, version controls, and safe storage of your research data and files.
+By the end of this module you should know:- 
+
+What a naming convention is and how to implement one. How version controlling works and helps you organise your files. The relevance of storing your files and sharing securely.
+File and folder naming conventions    
+LEARNING OBJECTIVE -  The following modules will cover File and folder naming conventions, version controls, and safe storage of your research and research data. 
+
+
+
+## File and Folder naming conventions
+
+File names are often taken for granted, but when working on complex research projects it is important to be able to retrieve files quickly and effectively. It is good practice to adopt a file naming convention which is consistent, logical and descriptive. Abbreviations and codes can be used as long as they are clear and uniformly applied.
+
+File names could include information such as:
+
+Project or experiment name or acronym
+Researcher name/initials
+Year or date of experiment
+Location/spatial coordinates
+Data type
+File version number
+(Tip: It's a great idea to include a readme.txt file in the directory that explains the naming format and any abbreviations or code used.)
+
+Avoid really long file names and special characters like ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ' " | in file names, directory paths and field names. Spaces in file names can also cause problems for some software or web applications, so underscores ( _ ), dashes ( - ), or camel case (e.g. FileName) could be used instead.
+
+## Version controls
+
+Version control is the process of managing file (or record, or dataset) revisions. It is particularly important for files that undergo numerous revisions, where there are multiple members of a research team, or when files are shared across multiple locations.
+
+Basic version control can be achieved by assigning unique file names and keeping a version control table to record changes. Other strategies include using version control facilities within the software you are using (see the UK Data Archive's guide to applying versioning in MS Word), or using file sharing services such as Dropbox or Google Drive, and controlling rights to file editing and manually merging edits by multiple users. You might also consider using specific versioning software such as Git or Mercurial (see also the list below)
+
+Best practice is to:
+
+decide how many versions of a file to keep, which versions to keep, for how long and how to organize versions
+identify milestone versions to keep, e.g. major versions rather than minor versions (keep version 02-00 but not 02-01)
+uniquely identify different versions of files using a systematic naming convention
+record changes made to a file when a new version is created
+record relationships between items where needed, for example between code and the data file it is run against; between data file and related documentation or metadata; or between multiple files
+track the location of files if they are stored in a variety of locations
+regularly synchronize files in different locations
+identify a single location for the storage of milestone and master versions
+(Source: The UK Data Archive guide.)
+
+## Safe storage of your reserach materials 
+
+Ensure your research data is kept safe from loss, theft, misuse or accidental disclosure.
+
+Research staff and HDR candidates can use Griffith University research data storage solutions, including:
+
+Research Space—collaborative storage space with easy to use web interface.
+Research Drive—Griffith-only storage space for large datasets.
+Research Vault—for datasets that are infrequently used and stored for long term retention.
+Compare the options at eResearch
+
